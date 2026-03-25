@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NotifyToss</string>
+    <string name="accessibility_service_label">NotifyToss Notification Capture Service</string>
+    <string name="mms_observer_channel_name">MMS Monitor</string>
+    <string name="mms_observer_channel_description">Background service for monitoring received MMS messages.</string>
+    <string name="mms_observer_notification_title">Monitoring MMS</string>
+    <string name="mms_observer_notification_body">NotifyToss is checking received MMS content.</string>
+</resources>
